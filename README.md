@@ -1,0 +1,1 @@
+# infomaniak-mail-mcp
